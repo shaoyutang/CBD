@@ -19,3 +19,6 @@ I have tried deleting my repository and creating it again but for some reason fo
 Therefore, I have uploaded my files onto Google Drive.
 
 I have also tried uploading another method using Github desktop and there was no luck. 
+
+
+https://drive.google.com/drive/folders/0B0Q6ho68Z7sSeTZkZXRsUS0tWDg?usp=sharing
